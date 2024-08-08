@@ -1,11 +1,14 @@
 # FirstJavaProject
 Java project in Spanish, description of the exercise below 
 
-Ejercicio de Programación Java: Gestión de Supermercado
+## Ejercicio de Programación Java: 
+
+### Gestión de Supermercado
 En este ejercicio, crearás un sistema para gestionar los productos de un supermercado. Deberás implementar una jerarquía de
 clases que incluya una clase abstracta Producto, con subclases Bebida, ProductoLimpieza y Carne. Además, utilizarás interfaces
 para representar características especiales de los productos.
-Instrucciones:
+
+### Instrucciones:
 1. Define una clase abstracta Producto que represente los productos que se venden en el supermercado. Esta clase debe tener
 propiedades como nombre, precio y fechaCaducidad.
 2. Implementa métodos para establecer y obtener estas propiedades en la clase Producto.
